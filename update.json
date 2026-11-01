@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.4.zip",
-  "checksum": "dfb83f2716149c78dfac6d788f37eabd0c44fffba9508689f74b970e6646bfcf",
+  "version": "1.0.5",
+  "versionCode": 6,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.5.zip",
+  "checksum": "f1a8ce030bda85aaa1c195db628b39fc94ea913b27e625d9326b2371ee0441ce",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.0.4: Modal bloqueado de seguridad durante la descarga y botón Más Tarde deshabilitado."
+  "notes": "Actualización v1.0.5: Limpieza de UI, eliminación del botón flotante y consola simplificada."
 }
