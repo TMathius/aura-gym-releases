@@ -1,8 +1,8 @@
 ﻿{
-  "version": "1.1.0",
-  "versionCode": 11,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.1.0.zip",
-  "checksum": "3782e157bd060477d815d43cf063b7a31db1a2f8b334bb8c8fd834021a34348f",
+  "version": "1.1.1",
+  "versionCode": 12,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.1.1.zip",
+  "checksum": "5dd1cd05926fabde0713a7f05fd2bb002e03458f7db87c3f49bfcd43a5e07082",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.1.0: Ventana biológica deslizante de 168h continuas para fatiga muscular (decay independiente por sesión) y cabecera de telemetría de sesión en vivo."
+  "notes": "Actualización v1.1.1: Sistema de Logros e Hitos Deportivos (Sala de Trofeos) accesible debajo de las rutinas."
 }
