@@ -1,8 +1,8 @@
 ﻿{
-  "version": "1.1.2",
-  "versionCode": 13,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.1.2.zip",
-  "checksum": "66e1985c4948217e0740b5b9366db0ebf670a1139dae317815289e6e2ea00404",
+  "version": "1.2.0",
+  "versionCode": 14,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.2.0.zip",
+  "checksum": "ea0d13a608b50422c459558b3b9261df9def3505bb5d75929153b05d6057eb19",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.1.2: Asignación de imágenes reales y específicas a ejercicios de sentadilla con barra, remo con barra, crunches, elevación de piernas colgado, remo gironda y encogimientos de trapecio."
+  "notes": "Actualización v1.2.0: Calculadora de discos por lateral, estimador de 1RM con récord en vivo, temporizador de descanso flotante automático, compartir e importar rutinas con código QR y bitácora interactiva de sesiones en el calendario de métricas."
 }
