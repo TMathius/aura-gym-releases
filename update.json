@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "versionCode": 9,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.8.zip",
-  "checksum": "e8768abda7ab2bf2b898b4db9402a81da47ec3cf0cb3ebb82cdc3ef6a14f11ea",
+  "version": "1.0.9",
+  "versionCode": 10,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.9.zip",
+  "checksum": "ca9864f1eaf9a9d52e4460b02cca7cee61a43ba8a60cf5dd4dc1cc0132df6084",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.0.8: Bloqueo de rotación portrait, eliminación de contador en catálogo y unificación tipográfica."
+  "notes": "Actualización v1.0.9: Filtrado anatómico estricto (solo ejercicios correspondientes), corrección de Ab Wheel Rollout y títulos en 1 línea."
 }
