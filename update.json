@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.3.zip",
-  "checksum": "00a7fb169615029f38661885bc5e9780e4b06e6eea0a7ed72d508cb19b91cafe",
+  "version": "1.0.4",
+  "versionCode": 5,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.4.zip",
+  "checksum": "dfb83f2716149c78dfac6d788f37eabd0c44fffba9508689f74b970e6646bfcf",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.0.3 en vivo: Verificación de actualización OTA remota y mejoras de sistema."
+  "notes": "Actualización v1.0.4: Modal bloqueado de seguridad durante la descarga y botón Más Tarde deshabilitado."
 }
