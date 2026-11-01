@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "versionCode": 7,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.6.zip",
-  "checksum": "47b76dcb0c7195ad8071b5843ec99eee0c85aa97275d0f0166015e6a756df718",
+  "version": "1.0.7",
+  "versionCode": 8,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.7.zip",
+  "checksum": "f25c6eaf0cb82e7bb306a4d5cd94129239c7ec91ea3019ace8aa05ec4cd7001f",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.0.6: Eliminación de barra de scroll y bloqueo de scroll innecesario cuando el contenido cabe en pantalla."
+  "notes": "Actualización v1.0.7: Modal minimalista, botón gris al actualizar y espaciado superior optimizado para el notch."
 }
