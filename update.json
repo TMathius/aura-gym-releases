@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "versionCode": 8,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.7.zip",
-  "checksum": "f25c6eaf0cb82e7bb306a4d5cd94129239c7ec91ea3019ace8aa05ec4cd7001f",
+  "version": "1.0.8",
+  "versionCode": 9,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.8.zip",
+  "checksum": "e8768abda7ab2bf2b898b4db9402a81da47ec3cf0cb3ebb82cdc3ef6a14f11ea",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.0.7: Modal minimalista, botón gris al actualizar y espaciado superior optimizado para el notch."
+  "notes": "Actualización v1.0.8: Bloqueo de rotación portrait, eliminación de contador en catálogo y unificación tipográfica."
 }
