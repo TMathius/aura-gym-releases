@@ -1,8 +1,8 @@
-{
-  "version": "1.0.9",
-  "versionCode": 10,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.9.zip",
-  "checksum": "ca9864f1eaf9a9d52e4460b02cca7cee61a43ba8a60cf5dd4dc1cc0132df6084",
+﻿{
+  "version": "1.1.0",
+  "versionCode": 11,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.1.0.zip",
+  "checksum": "3782e157bd060477d815d43cf063b7a31db1a2f8b334bb8c8fd834021a34348f",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Actualización v1.0.9: Filtrado anatómico estricto (solo ejercicios correspondientes), corrección de Ab Wheel Rollout y títulos en 1 línea."
+  "notes": "Actualización v1.1.0: Ventana biológica deslizante de 168h continuas para fatiga muscular (decay independiente por sesión) y cabecera de telemetría de sesión en vivo."
 }
