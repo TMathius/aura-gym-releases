@@ -2,6 +2,7 @@
   "version": "1.0.2",
   "versionCode": 3,
   "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.2.zip",
+  "checksum": "b81a5ecae41465093d3f3cc599cd868ed800d84867100721f20429e7ccb0ae92",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
   "notes": "Nueva imagen para Press Francés con Mancuernas (aislamiento de tríceps) y mejoras de rendimiento."
 }
