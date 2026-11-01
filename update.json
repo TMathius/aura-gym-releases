@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.2.zip",
-  "checksum": "f2cd9f188d64720167e77b7afd386586816b33927d958c5d92d4235f0da74fb2",
+  "version": "1.0.3",
+  "versionCode": 4,
+  "bundleUrl": "https://raw.githubusercontent.com/TMathius/aura-gym-releases/main/bundle-v1.0.3.zip",
+  "checksum": "00a7fb169615029f38661885bc5e9780e4b06e6eea0a7ed72d508cb19b91cafe",
   "downloadUrl": "https://github.com/TMathius/aura-gym-releases/releases/latest",
-  "notes": "Nueva imagen para Press Francés con Mancuernas (aislamiento de tríceps), consola de diagnóstico integrada y mejoras de rendimiento."
+  "notes": "Actualización v1.0.3 en vivo: Verificación de actualización OTA remota y mejoras de sistema."
 }
